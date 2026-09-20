@@ -1,0 +1,3 @@
+The complete portfolio app was built in the connected Lovable workspace. The GitHub connector can write repository files but does not expose a direct export of the Lovable project's full filesystem as a single archive. The portfolio preview is available at: https://id-preview--eb450a87-3049-49ad-a26b-e1713070470b.lovable.app
+
+Main editable content is in src/data/portfolio.ts in the project.
