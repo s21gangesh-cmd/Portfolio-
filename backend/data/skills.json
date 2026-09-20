@@ -1,0 +1,10 @@
+[
+  {"id":"python","name":"Python","label":"PY","level":"Intermediate","progress":72,"description":"Python for scripting, problem solving and application development.","certificateImage":null,"certificateUrl":null},
+  {"id":"java","name":"Java","label":"JV","level":"Learning","progress":65,"description":"Java fundamentals and object-oriented programming for academics.","certificateImage":null,"certificateUrl":null},
+  {"id":"dsa","name":"Data Structures & Algorithms","label":"DS","level":"Actively learning","progress":58,"description":"Core data structures, algorithms and problem solving practice.","certificateImage":null,"certificateUrl":null},
+  {"id":"frontend","name":"HTML / CSS / JavaScript","label":"FE","level":"Intermediate","progress":76,"description":"Responsive frontend development and interactive UI implementation.","certificateImage":null,"certificateUrl":null},
+  {"id":"git","name":"Git / GitHub","label":"GT","level":"Working knowledge","progress":64,"description":"Repository management, version control and GitHub workflows.","certificateImage":null,"certificateUrl":null},
+  {"id":"excel","name":"Excel","label":"XL","level":"Working knowledge","progress":68,"description":"Spreadsheets, formulas and practical data organization.","certificateImage":null,"certificateUrl":null},
+  {"id":"cybersecurity","name":"Cybersecurity","label":"CY","level":"Foundation","progress":52,"description":"Cybersecurity fundamentals and ongoing hands-on learning.","certificateImage":null,"certificateUrl":null},
+  {"id":"editing","name":"Video Editing","label":"VE","level":"Intermediate","progress":70,"description":"Video editing workflows for content and project presentations.","certificateImage":null,"certificateUrl":null}
+]
